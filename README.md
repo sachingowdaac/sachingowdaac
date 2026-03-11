@@ -3,12 +3,29 @@
 I’m a **Senior Full-Stack Engineer** with **5+ years of experience** building cloud-native products across frontend, backend, and AI-enabled workflows.
 
 My work focuses on:
-- shipping polished, scalable product experiences end to end
-- modernizing architecture for better reliability and independent releases
-- improving engineering quality through CI/CD, testing, and performance optimization
-- building practical AI-powered product features that create real user value
+- Shipping polished, scalable product experiences end to end
+- Modernizing architecture for better reliability and independent releases
+- Improving engineering quality through CI/CD, testing, and performance optimization
+- Building practical AI-powered product features that create real user value
 
 I enjoy solving product and engineering problems where **performance, reliability, developer velocity, and user outcomes** all matter.
+
+<h2 align="left">Connect with me</h2>
+
+<p align="left">
+  <a href="mailto:sachingowdaac444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-sachingowdaac444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachingowdaac/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Sachingowdaac/" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sachin_gowda_a_c" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## Tech Stack
 
@@ -63,25 +80,9 @@ I enjoy solving product and engineering problems where **performance, reliabilit
 
 <h2 align="left">GitHub Analytics</h2>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sachingowdaac/sachingowdaac/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-</p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sachingowdaac&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin Gowda A  C's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingowdaac&layout=compact&theme=radical" />
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sachingowdaac/sachingowdaac/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/sachingowdaac/sachingowdaac/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-</p>
-
-<h2 align="left">Connect with me</h2>
-
-<p align="left">
-  <a href="mailto:sachingowdaac444@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sachingowdaac444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sachingowdaac/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <!--
 Optional next step:

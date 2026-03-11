@@ -63,15 +63,6 @@ I enjoy solving product and engineering problems where **performance, reliabilit
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## What I’m Best At
-
-- Designing and shipping **full-stack product features**
-- Building scalable systems with **React, Node.js, and AWS**
-- Improving **performance, reliability, and release quality**
-- Building **AI-enabled product workflows** with OpenAI and NLP
-- Translating product requirements into maintainable engineering solutions
-- Mentoring developers and improving engineering standards
-
 <!-- <h2 align="left">Languages and Tools</h2>
 
 <p align="left">
@@ -82,6 +73,15 @@ I enjoy solving product and engineering problems where **performance, reliabilit
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sachingowdaac&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin Gowda A  C's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingowdaac&layout=compact&theme=radical" />
+
+## What I’m Best At
+
+- Designing and shipping **full-stack product features**
+- Building scalable systems with **React, Node.js, and AWS**
+- Improving **performance, reliability, and release quality**
+- Building **AI-enabled product workflows** with OpenAI and NLP
+- Translating product requirements into maintainable engineering solutions
+- Mentoring developers and improving engineering standards
 
 
 <!--
